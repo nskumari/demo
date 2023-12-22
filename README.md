@@ -1,3 +1,4 @@
 # demo
-This is my first Repository
-Author-Sneha Singh
+This is my first Repository.
+<br>
+Author-"Sneha Singh"
